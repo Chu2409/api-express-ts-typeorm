@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=T1QFGwOnQxQ&t=2761s
+
+npm init -y
+
+npm install typescript ts-node nodemon -D 
+npm install express cors dotenv multer typeorm reflect-metadata pg
+npm install @types/node @types/express @types/cors @types/dotenv @types/multer -D
+npx tsc --init
+
+
+
+npm install bcryptjs jsonwebtoken
+npm install @types/bcryptjs @types/jsonwebtoken -D
+
+
+
